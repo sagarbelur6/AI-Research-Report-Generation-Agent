@@ -1,0 +1,16 @@
+openai>=0.27.0
+langchain>=0.0.300
+langchain-community
+duckduckgo-search
+arxiv
+wikipedia
+reportlab
+python-pptx
+streamlit
+faiss-cpu
+PyPDF2
+PyMuPDF
+Pillow
+pytesseract
+python-dotenv
+matplotlib
